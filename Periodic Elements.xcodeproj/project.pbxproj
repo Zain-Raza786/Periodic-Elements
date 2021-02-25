@@ -11,6 +11,7 @@
 		3F8D118A25E80544000563C3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8D118925E80544000563C3 /* ContentView.swift */; };
 		3F8D118C25E8054E000563C3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F8D118B25E8054E000563C3 /* Assets.xcassets */; };
 		3F8D118F25E8054E000563C3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F8D118E25E8054E000563C3 /* Preview Assets.xcassets */; };
+		3F8D119825E807A0000563C3 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8D119725E807A0000563C3 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3F8D118B25E8054E000563C3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F8D118E25E8054E000563C3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F8D119025E8054E000563C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F8D119725E807A0000563C3 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				3F8D118925E80544000563C3 /* ContentView.swift */,
 				3F8D118B25E8054E000563C3 /* Assets.xcassets */,
 				3F8D119025E8054E000563C3 /* Info.plist */,
+				3F8D119725E807A0000563C3 /* SwiftyJSON.swift */,
 				3F8D118D25E8054E000563C3 /* Preview Content */,
 			);
 			path = "Periodic Elements";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F8D119825E807A0000563C3 /* SwiftyJSON.swift in Sources */,
 				3F8D118A25E80544000563C3 /* ContentView.swift in Sources */,
 				3F8D118825E80544000563C3 /* Periodic_ElementsApp.swift in Sources */,
 			);
